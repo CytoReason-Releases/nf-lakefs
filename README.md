@@ -11,7 +11,7 @@ The plugin treats lakeFS repositories and branches as a native file system, enab
 The nf-lakefs plugin is published and distributed via the official Nextflow plugin registry.
 
 ➡️ Registry page:
-https://registry.nextflow.io/plugins/nf-lakefs@0.3.1
+https://registry.nextflow.io/plugins/nf-lakefs
 
 ## Features
 
